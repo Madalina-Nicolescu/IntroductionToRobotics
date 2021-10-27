@@ -50,5 +50,4 @@ void loop() {
   analogWrite(ledRedPin, redBrightness);
   analogWrite(ledGreenPin, greenBrightness);
   analogWrite(ledBluePin, blueBrightness);
-
 }
