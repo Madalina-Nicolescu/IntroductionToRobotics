@@ -14,3 +14,6 @@ Control an RGB led using 3 potentiometers, each of them manipulating one of the 
 - wires
 
 ## Setup
+
+## Video
+You can find a demo at: https://youtu.be/p0GPexGWI7E
