@@ -53,8 +53,8 @@ Pressing the button in any other state than state 1 will have no effect.
 
 ## Setup
 
-<img src = "https://github.com/Madalina-Nicolescu/IntroductionToRobotics/blob/main/analogRGB/setup.jpeg" width = "500" height= "500">
-<img src = "https://github.com/Madalina-Nicolescu/IntroductionToRobotics/blob/main/analogRGB/setup1.jpeg" width = "500" height= "500">
+<img src = "https://github.com/Madalina-Nicolescu/IntroductionToRobotics/blob/main/CrosswalkSimulator/setup.jpeg" width = "500" height= "500">
+<img src = "https://github.com/Madalina-Nicolescu/IntroductionToRobotics/blob/main/CrosswalkSimulator/setup1.jpeg" width = "500" height= "500">
 
 ## Video
 You can find a demo at: https://youtu.be/3DVMIWi4b4I
