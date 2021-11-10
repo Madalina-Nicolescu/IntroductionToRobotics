@@ -60,3 +60,29 @@ Pressing the button in any other state than state 1 will have no effect.
 You can find a demo at: https://youtu.be/3DVMIWi4b4I
 
 </details>
+
+# Homework 3
+
+<details>
+<summary>See details</summary>
+<br>
+  
+## Requirements
+Build an EMF detector (a ghost detector) that should print the value on the 7-segment display and should make a sound based on the intensity.
+  
+  
+## Components
+- 7-segment display
+- 1 buzzer
+- wires
+- resistors
+
+## Setup
+
+<img src = "https://github.com/Madalina-Nicolescu/IntroductionToRobotics/blob/main/CrosswalkSimulator/setup.jpeg" width = "500" height= "500">
+<img src = "https://github.com/Madalina-Nicolescu/IntroductionToRobotics/blob/main/CrosswalkSimulator/setup1.jpeg" width = "500" height= "500">
+
+## Video
+You can find a demo at: https://youtu.be/_BhiAIe7Mo0
+
+</details>
