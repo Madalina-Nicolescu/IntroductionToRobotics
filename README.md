@@ -79,8 +79,7 @@ Build an EMF detector (a ghost detector) that should print the value on the 7-se
 
 ## Setup
 
-<img src = "https://github.com/Madalina-Nicolescu/IntroductionToRobotics/blob/main/CrosswalkSimulator/setup.jpeg" width = "500" height= "500">
-<img src = "https://github.com/Madalina-Nicolescu/IntroductionToRobotics/blob/main/CrosswalkSimulator/setup1.jpeg" width = "500" height= "500">
+<img src = "https://github.com/Madalina-Nicolescu/IntroductionToRobotics/blob/main/emf_detector/setup.jpeg" width = "500" height= "500">
 
 ## Video
 You can find a demo at: https://youtu.be/_BhiAIe7Mo0
