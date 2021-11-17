@@ -110,7 +110,7 @@ The previous value is saved on eeprom and loaded whenever we start the arduino.
 ## Setup
 
 <img src = "https://github.com/Madalina-Nicolescu/IntroductionToRobotics/blob/main/4digits_7segment/setup.jpeg" width = "500" height= "500">
-<img src = "https://github.com/Madalina-Nicolescu/IntroductionToRobotics/blob/main/4digits_7segment/setup1.jpeg" width = "500" height= "500">
+<img src = "https://github.com/Madalina-Nicolescu/IntroductionToRobotics/blob/main/4digits_7segment/setup1.jpeg" width = "800" height= "500">
 
 ## Video
 You can find a demo at: https://youtu.be/Jy5S3hLJrWk
