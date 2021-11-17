@@ -85,3 +85,34 @@ Build an EMF detector (a ghost detector) that should print the value on the 7-se
 You can find a demo at: https://youtu.be/_BhiAIe7Mo0
 
 </details>
+
+# Homework 4
+
+<details>
+<summary>See details</summary>
+<br>
+  
+## Requirements
+Use  a  joystick  in  setting  the  values  on  each  digit  of  a  4-digit7-segment display connected to a shift register 74hc595.
+- <b>First  state:</b>   you  can  use  a  joystick  axis  to  cycle  through  the  4digits; using the other axis does nothing.  A blinking decimal point shows the current digit position.  When pressing the button, using interrupts,  you  lock  in  on  the  selected  digit  and  enter  the second state. 
+- <b>Second state:</b> the decimal point stays always on, no longer blinking and you can no longer use the axis to cycle through the 4 digits. Instead, using the other axis, you can increment on decrement the number on the current digit.  Pressing the button again returns you to the previous state.
+
+The previous value is saved on eeprom and loaded whenever we start the arduino.
+  
+  
+## Components
+- 4-digit 7-segment display
+- 74hc595  shiftregister
+- joystick
+- wires
+- resistors
+
+## Setup
+
+<img src = "https://github.com/Madalina-Nicolescu/IntroductionToRobotics/blob/main/emf_detector/setup.jpeg" width = "500" height= "500">
+<img src = "https://github.com/Madalina-Nicolescu/IntroductionToRobotics/blob/main/CrosswalkSimulator/setup1.jpeg" width = "500" height= "500">
+
+## Video
+You can find a demo at: https://youtu.be/Jy5S3hLJrWk
+
+</details>
